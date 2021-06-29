@@ -2,13 +2,13 @@
 
 <img src="UASJgrande.jpg" class="img-responsive" width="100%">
 
-  
+
 
 <div class="login-box">
 
   <div class="login-logo">
 
-
+//probando
   </div>
 
   <div class="login-box-body">
