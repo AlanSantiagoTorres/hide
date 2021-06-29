@@ -8,7 +8,7 @@
 
   <div class="login-logo">
 
-//probando
+
   </div>
 
   <div class="login-box-body">
